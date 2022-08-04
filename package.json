@@ -1,0 +1,19 @@
+{
+  "name": "css-grid-practice",
+  "version": "1.0.0",
+  "description": "Google homepage clone created with CSS Grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ec-rilo/css-grid-practice.git"
+  },
+  "author": "Edgar Carrillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ec-rilo/css-grid-practice/issues"
+  },
+  "homepage": "https://github.com/ec-rilo/css-grid-practice#readme"
+}
